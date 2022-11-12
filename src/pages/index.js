@@ -25,7 +25,7 @@ export default function Home() {
     placeholder="blurred"
     layout="fixed"
     width={450}
-    height={450}
+    height={450}git
     />
     </section>
     </Layout>
